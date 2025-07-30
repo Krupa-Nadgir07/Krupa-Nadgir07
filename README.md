@@ -1,7 +1,7 @@
 ## 🌿 A Glimpse of Me in Tech 🖥️
 
 Out here exploring tech and building solutions to real-world problems.  
-I’m deeply passionate about learning new technologies, with special interests in **Web Development**, **Artificial Intelligence**, **Machine Learning**, **Deep Learning**,**Computer Vision**, **IoT**, and **Embedded Systems**.  
+I’m deeply passionate about learning new technologies, with special interests in **Web Development**, **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, **Computer Vision**, **IoT**, and **Embedded Systems**.  
 Always curious, always growing! 🚀
 
 ## 🛜 **Let’s Connect**  
